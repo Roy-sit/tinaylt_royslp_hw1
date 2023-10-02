@@ -1,7 +1,7 @@
-# Team Member 2
-
+# We are Hot Pick!
+Welcome to our readme profile
+##Team Member 1
 ## Name: Roy Sit
-
 ## Country: Hong Kong
 
 **Hobbies** 
@@ -22,3 +22,22 @@
 <img src="img/fav_food_seafood.jpg" width="150" height="160">
 
 [My Favourite Website: Hottoys](https://www.hottoys.com.hk)
+
+***
+
+#Team Member 2
+
+##Tina Yam
+
+**Hobbies**: Watch TV series, Hiking, Explore the world, Cooking, Music, etc...
+
+**Favourite Movie**
+1. Harry potter (huge fan)
+2. Zootopia
+2. Kiki's Delivery Service
+
+**My favourite website recently** [Youtube!!!!](https://www.youtube.com/)
+
+_I love being around nature; especially staring at the galaxy at night._
+![night of volcano](img/readme_img1.jpg)
+![night of volcano](img/readme_img2.jpg)
