@@ -1,15 +1,17 @@
-# We are Hot Pick!
-Welcome to our readme profile
-##Team Member 1
-## Name: Roy Sit
+# Tina Lok & Roy Sit's Profile
+
+##Welcome to our readme profile
+
+#Team Member 1
+## Roy Sit
 ## Country: Hong Kong
 
 **Hobbies** 
 (1) TV games
-![tv game](img/hobby1_ps5.jpg) 
+![tv games](img/hobby1_ps5.jpg) 
 
 (2) Movies
-![movie](img/hobby3_movies.jpg) 
+![movies](img/hobby3_movies.jpg) 
 
 (3) Basketball
 ![Basketball](img/hobby2_basketball.jpg) 
