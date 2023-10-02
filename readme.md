@@ -7,8 +7,10 @@ Welcome to our readme profile
 **Hobbies** 
 (1) TV games
 ![tv game](img/hobby1_ps5.jpg) 
+
 (2) Movies
 ![movie](img/hobby3_movies.jpg) 
+
 (3) Basketball
 ![Basketball](img/hobby2_basketball.jpg) 
 
@@ -16,8 +18,10 @@ Welcome to our readme profile
 
 **Favourite Actor - Leonardo**
 ![Leonardo](img/fav_actor_leonardo.jpg) 
+
 **Favourite Singer - Maroon 5**
 ![Maroon5](img/fav_singer_m5.jpg) 
+
 **Favourite Food - A bunch of seafood**
 ![seafood](img/fav_food_seafood.jpg) 
 
