@@ -1,4 +1,4 @@
-# Tina Lok & Roy Sit's Profile
+# Tina Lok and Roy Sit's Profile
 
 ##Welcome to our readme profile
 
@@ -8,10 +8,10 @@
 
 **Hobbies** 
 (1) TV games
-![tv games](img/hobby1_ps5.jpg) 
+![tv game](img/hobby1_ps5.jpg) 
 
 (2) Movies
-![movies](img/hobby3_movies.jpg) 
+![movie](img/hobby3_movies.jpg) 
 
 (3) Basketball
 ![Basketball](img/hobby2_basketball.jpg) 
