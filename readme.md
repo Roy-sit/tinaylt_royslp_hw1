@@ -6,20 +6,20 @@ Welcome to our readme profile
 
 **Hobbies** 
 (1) TV games
-<img src="img/hobby1_ps5.jpg" width="150" height="140"> 
+![tv game](img/hobby1_ps5.jpg) 
 (2) Movies
-<img src="img/hobby3_movies.jpg" width="150" height="140"> 
+![movie](img/hobby3_movies.jpg) 
 (3) Basketball
-<img src="img/hobby2_basketball.jpg" width="150" height="140"> 
+![Basketball](img/hobby2_basketball.jpg) 
 
-<hr>
+***
 
 **Favourite Actor - Leonardo**
-<img src="img/fav_actor_leonardo.jpg" width="150" height="160"> 
+![Leonardo](img/fav_actor_leonardo.jpg) 
 **Favourite Singer - Maroon 5**
-<img src="img/fav_singer_m5.jpg" width="150" height="160">
+![Maroon5](img/fav_singer_m5.jpg) 
 **Favourite Food - A bunch of seafood**
-<img src="img/fav_food_seafood.jpg" width="150" height="160">
+![seafood](img/fav_food_seafood.jpg) 
 
 [My Favourite Website: Hottoys](https://www.hottoys.com.hk)
 
