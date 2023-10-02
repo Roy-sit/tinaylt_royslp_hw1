@@ -25,9 +25,8 @@ Welcome to our readme profile
 
 ***
 
-#Team Member 2
-
-##Tina Yam
+# Team Member 2
+## Tina Yam
 
 **Hobbies**: Watch TV series, Hiking, Explore the world, Cooking, Music, etc...
 
